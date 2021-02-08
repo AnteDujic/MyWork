@@ -5,6 +5,6 @@
 dollars = float (input ("Please enter amount in dollars: "))
 absoluteDollar =  abs (dollars)
 
-cent = round ((absoluteDollar * 100))
+cent = round (absoluteDollar * 100)
 
 print ("That amount in cent is: {}" .format (cent))
