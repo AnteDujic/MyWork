@@ -3,6 +3,7 @@
 # Author: Ante Dujic
 
 
+
 student = {
 "name":"Mary",
 "modules": [
@@ -16,6 +17,8 @@ student = {
 }
 ]
 }
+
 print ("Student: {}" .format(student["name"]))
+
 for module in student["modules"]:
     print ("\t {} \t: {}" .format(module["courseName"], module["grade"]))
