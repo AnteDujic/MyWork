@@ -1,6 +1,6 @@
 # Program that allows user to create students, their modules and grades
     # It allows user to see the inputted students and detail
-# Author: Ante Dujic
+# Copied from lab - need better understanding
 
 def displayMenu():
     print("What would you like to do?")
