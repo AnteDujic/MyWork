@@ -26,5 +26,5 @@ plt.xlabel ("salaries")
 plt.ylabel ("age")
 plt.legend ()
 
-#plt.show ()
-plt.savefig ("prettier-plot.png")
+plt.show ()
+#plt.savefig ("prettier-plot.png")
